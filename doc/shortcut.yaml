@@ -1,0 +1,19 @@
+new-class:
+    idea: Ctrl + Enter / Alt + Insert -> new class
+    eclipse: Alt + Shift + n -> select new class from context menu
+
+
+generate test method:
+    idea: Ctrl + Enter / Alt + Insert
+    eclipse: type "test" -> Ctrl + Space, select test method Junit4
+
+Import package:
+    idea: Alt + Enter -> select
+    eclipse: Ctrl + Shift + O
+
+Binding parameter to field:
+    idea: Alt + Enter -> select
+    eclipse: none, manually
+
+refactor:
+    idea: Alt + Enter -> select
